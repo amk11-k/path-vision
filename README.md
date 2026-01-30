@@ -1,20 +1,33 @@
-Path Vision – Accessibility Mobile App
+Path Vision – Accessibility Mobile Application
 
  Description
-A mobile application designed to assist visually impaired users with safe navigation and environmental awareness.
+Path Vision is a mobile application developed to assist people with visual impairments by providing safe navigation and environmental awareness through voice-based interaction and intelligent detection features.
 
- Problem Solved
-Provides voice-based navigation and obstacle detection to support independent mobility.
+The application focuses on accessibility, independence, and ease of use for users with Vision disabilities.
 
- My Responsibilities
-- Integrated voice-guided navigation using Google Maps
-- Worked on object detection and obstacle avoidance
-- Implemented Speech-to-Text and Text-to-Speech features
+ Key Features
+- Voice-guided navigation using Google Maps
+- Object detection for identifying nearby obstacles
+- Obstacle avoidance assistance
+- Speech-to-Text for voice commands
+- Text-to-Speech for audio feedback
+- Hands-free user interaction
 
- Tools & Technologies
+Technologies Used
+- Mobile Application Development
 - Google Maps API
-- Computer Vision
-- Speech-to-Text & Text-to-Speech
+- Computer Vision (Object Detection)
+- Speech-to-Text (STT)
+- Text-to-Speech (TTS)
+
+My Role
+- Designed and implemented accessibility-focused application features
+- Integrated Google Maps with voice navigation
+- Worked on object detection and obstacle avoidance logic
+- Implemented voice-based interaction using STT and TTS
+
+Use Case
+Path Vision enables visually impaired users to navigate safely, recognize obstacles, and receive real-time audio guidance without relying on visual input.
 
  Status
 Completed
